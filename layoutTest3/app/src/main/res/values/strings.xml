@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">layoutTest3</string>
+    <string name="Open">"    "Open...</string>
+    <string name="Ctrl_Open">Ctrl-O</string>
+    <string name="Save">"    "Save...</string>
+    <string name="Ctrl_Save">Ctrl-S</string>
+    <string name="Save_As">"    "Save As...</string>
+    <string name="Ctrl_Save_As">Ctrl-Shift-S</string>
+    <string name="Import">X"  "Import...</string>
+    <string name="Export">X"  "Export...</string>
+    <string name="Ctrl_Export">Ctrl-E</string>
+    <string name="Quit">"    "Quit</string>
+</resources>

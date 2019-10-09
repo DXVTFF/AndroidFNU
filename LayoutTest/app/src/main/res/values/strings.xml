@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LayoutTest1</string>
+    <string name="One_One">One,One</string>
+    <string name="One_Two">One,Two</string>
+    <string name="One_Three">One,Three</string>
+    <string name="One_Four">One,Four</string>
+    <string name="Two_One">Two,One</string>
+    <string name="Two_Two">Two,Two</string>
+    <string name="Two_Three">Two,Three</string>
+    <string name="Two_Four">Two,Four</string>
+    <string name="Three_One">Three,One</string>
+    <string name="Three_Two">Three,Two</string>
+    <string name="Three_Three">Three,Three</string>
+    <string name="Three_Four">Three,Four</string>
+    <string name="Four_One">Four,One</string>
+    <string name="Four_Two">Four,Two</string>
+    <string name="Four_Three">Four,Three</string>
+    <string name="Four_Four">Four,Four</string>
+</resources>
