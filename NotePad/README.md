@@ -1,3 +1,3 @@
 # NotePad
 This is an AndroidStudio rebuild of google SDK sample NotePad
-ÕâÊÇÒ»¸ö¼ÇÊÂ±¾
+è¿™æ˜¯ä¸€ä¸ªè®°äº‹æœ¬(å¤‡å¿˜å½•)
